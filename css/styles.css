@@ -1,0 +1,154 @@
+
+body{
+  font-family: "Montserrat";
+}
+
+#title{
+  background-color: #8675a9;
+  color: #fff;
+}
+
+#tagline{
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 20%;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+#logo{
+  height: 80px;
+  padding-top: 10%;
+  padding-left: 70%;
+}
+
+#brand{
+  font-family: "Ubuntu";
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+#info{
+  background-color: #fff;
+  margin: 4% auto;
+}
+
+.infoSection{
+  text-align: center;
+  margin: 10% auto;
+  padding: 5% auto;
+}
+
+
+.infoHeadings{
+  padding-top: 4%;
+  font-weight: 700;
+}
+
+.infoPara{
+  color:#8f8f8f;
+}
+
+.infoIcon{
+  color:#8675A9;
+}
+
+.infoIcon:hover{
+  color:#E0A800;
+}
+
+#reviews{
+  font-family: "Montserrat";
+  background-color: #c3aed6;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+
+#reviewTitle{
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+  height: 270px;
+}
+.reviewerImage{
+  margin: 20px;
+  width: 15%;
+  border-radius:100%;
+}
+.reviewLogos{
+padding: 10px;
+}
+.reviewLogosImage{
+  width: 60%;
+}
+.brandLogos{
+  padding-top: 1%;
+}
+
+#brands{
+  font-family: "Montserrat";
+  background-color: #c3aed6;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+#pricing{
+  text-align: center;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  font-family: "Montserrat";
+}
+#pricingPara{
+  margin-bottom: 4%;
+}
+.cardSpacing{
+  padding: 1px;
+  align-content: center;
+}
+
+#banner{
+  background-color: #8675a9;
+  color: #fff;
+  text-align: center;
+}
+#tagline2{
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 20%;
+  padding-bottom: 2%;
+}
+.bannerButton{
+  margin-bottom: 20%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+#social{
+  margin-top: 7%;
+  margin-bottom: 7%;
+  text-align: center;
+}
+.socialLogos{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 1%;
+}
